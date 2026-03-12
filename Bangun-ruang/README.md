@@ -250,8 +250,14 @@ Kurung kurawal ini menandakan:
 
 ---
 ### Contoh Output Program
+### Tampilan Folder Proyek di Local
+
+<image-card alt="Struktur folder proyek BangunRuang lokal" src="Screenshot%202026-03-12%20145953.png" ></image-card>
+
+### Contoh Output Saat Program Dijalankan
 
 <image-card alt="Output program BangunRuang" src="Screenshot%202026-03-12%20145953.png" ></image-card>
+<!-- Kalau screenshot ini adalah output console, ganti caption sesuai. -->
 
 
 # Kesimpulan Program
