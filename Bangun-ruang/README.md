@@ -251,7 +251,7 @@ Kurung kurawal ini menandakan:
 ---
 ### Contoh Output Program
 
-![Output Program](Screenshot 2026-03-12 145953-1.png)
+![Output Program]([Screenshot 2026-03-12 145953-1.png](https://github.com/AyamSerundeng/Algoritma-pemograman-kelompok-3/blob/main/Bangun-ruang/Screenshot%202026-03-12%20145953.png))
 
 # Kesimpulan Program
 
