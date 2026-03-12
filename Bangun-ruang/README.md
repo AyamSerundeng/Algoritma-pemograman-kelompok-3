@@ -251,7 +251,7 @@ Kurung kurawal ini menandakan:
 ---
 ### Contoh Output Program
 
-![Output Program]
+<image-card alt="Struktur folder proyek BangunRuang di NetBeans" src="Screenshot 2026-03-12 145953.png" ></image-card>
 
 
 # Kesimpulan Program
