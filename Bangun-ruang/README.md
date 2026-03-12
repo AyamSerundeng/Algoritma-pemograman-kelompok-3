@@ -142,7 +142,7 @@ Baris ini menghitung **volume bola**.
 Rumus volume bola:
 
 ```
-V = 4/3 � p � r�
+V = 4/3 * p * r^2
 ```
 
 Penjelasan bagian kode:
