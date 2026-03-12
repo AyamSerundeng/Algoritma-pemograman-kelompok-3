@@ -5,10 +5,10 @@
 
 ## Informasi Mata Kuliah
 
-| Mata Kuliah           | Kelas | Dosen Pengampu                        |
-|-----------------------|-------|---------------------------------------|
-| Algoritma Pemrograman | I251A | Wahyu Hadikristanto, S.Kom., M.Kom.   |
-
+| Mata Kuliah           | Algoritma Pemrograman      |
+|-----------------------|----------------------------|
+| Kelas                 |                      I251A |
+| Dosen Pengampu| wahyu Hadikristanto, S.Kom., M.Kom.|
 ---
 
 | no | Nama Lengkap                                 | Nim                 |
