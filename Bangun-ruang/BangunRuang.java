@@ -1,17 +1,19 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Other/File.java to edit this template
  */
-package bangun.ruang;
 import java.util.Scanner;
-
 /**
  *
- * @author KHAIRI RAMADHAN
+ * @author HYPE AMD
  */
 public class BangunRuang {
-    public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String args[]) {
+                Scanner input = new Scanner(System.in);
         
         System.out.println("=== PROGRAM HITUNG BOLA ===");
         System.out.println();
@@ -35,5 +37,4 @@ public class BangunRuang {
         
         input.close();
     }
-    
 }
