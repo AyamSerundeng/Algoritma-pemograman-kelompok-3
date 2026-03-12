@@ -251,7 +251,7 @@ Kurung kurawal ini menandakan:
 ---
 ### Contoh Output Program
 
-![Output Program](Screenshot 2026-03-12 145953.png)
+![Output Program](Screenshot 2026-03-12 145953-1.png)
 
 # Kesimpulan Program
 
