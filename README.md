@@ -6,7 +6,7 @@
 ## Informasi Mata Kuliah
 
 | Mata Kuliah           | Algoritma Pemrograman      |
-|-----------------------|----------------------------|
+|:-----------------------|:----------------------------|
 | Kelas                 |                      I251A |
 | Dosen Pengampu| wahyu Hadikristanto, S.Kom., M.Kom.|
 ---
