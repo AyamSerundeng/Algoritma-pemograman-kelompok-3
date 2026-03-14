@@ -142,7 +142,7 @@ Baris ini menghitung **volume bola**.
 Rumus volume bola:
 
 ```
-V = 4/3 � p � r�
+V = 4/3 * p * r^2
 ```
 
 Penjelasan bagian kode:
@@ -251,7 +251,8 @@ Kurung kurawal ini menandakan:
 ---
 ### Contoh Output Program
 
-![Output Program](Screenshot 2026-03-12 145953-1.png)
+![Isi folder Bangun-ruang di local](Screenshot%202026-03-12%20145953.png)
+
 
 # Kesimpulan Program
 
