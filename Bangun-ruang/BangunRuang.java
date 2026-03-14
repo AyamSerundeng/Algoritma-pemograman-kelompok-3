@@ -5,7 +5,7 @@
 import java.util.Scanner;
 /**
  *
- * @author HYPE AMD
+ * @author KHAIRI RAMADHAN YUDHATAMA
  */
 public class BangunRuang {
 
