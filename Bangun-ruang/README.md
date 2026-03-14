@@ -151,7 +151,7 @@ Penjelasan bagian kode:
 |------|------|
 | 4.0 / 3 | pembagian dalam bentuk desimal |
 | 3.14159 | nilai pendekatan dari p |
-| r * r * r | menghitung r� |
+| r * r * r | menghitung r^3 |
 
 Hasil perhitungan disimpan dalam variabel `volume`.
 
@@ -168,7 +168,7 @@ Baris ini menghitung **luas permukaan bola**.
 Rumus luas permukaan bola:
 
 ```
-L = 4 � p � r�
+L = 4*p*r^2
 ```
 
 Penjelasan bagian kode:
@@ -177,7 +177,7 @@ Penjelasan bagian kode:
 |------|------|
 | 4 | konstanta dalam rumus |
 | 3.14159 | nilai p |
-| r * r | menghitung r� |
+| r * r | menghitung r^2 |
 
 Hasilnya disimpan dalam variabel `luasPermukaan`.
 
@@ -200,8 +200,8 @@ Baris kedua menampilkan garis pemisah agar tampilan output lebih jelas.
 
 ```java
 System.out.printf("Jari-jari bola       = %.2f cm\n", r);
-System.out.printf("Volume bola          = %.2f cm�\n", volume);
-System.out.printf("Luas permukaan bola  = %.2f cm�\n", luasPermukaan);
+System.out.printf("Volume bola          = %.2f cm^3\n", volume);
+System.out.printf("Luas permukaan bola  = %.2f cm^2\n", luasPermukaan);
 ```
 
 `printf()` digunakan untuk **menampilkan teks dengan format tertentu**.
@@ -217,8 +217,8 @@ Contoh hasil tampilan:
 
 ```
 Jari-jari bola       = 7.00 cm
-Volume bola          = 1436.76 cm�
-Luas permukaan bola  = 615.75 cm�
+Volume bola          = 1436.76 cm^3
+Luas permukaan bola  = 615.75 cm^2
 ```
 
 ---
@@ -251,7 +251,7 @@ Kurung kurawal ini menandakan:
 ---
 ### Contoh Output Program
 
-![Isi folder Bangun-ruang di local](Screenshot%202026-03-12%20145953.png)
+![Isi folder Bangun-ruang di local](Screenshot%202026-03-14%20193236.png)
 
 
 # Kesimpulan Program
