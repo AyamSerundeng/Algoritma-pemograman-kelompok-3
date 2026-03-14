@@ -94,13 +94,7 @@ Dipanggil setiap kali looping baris selesai agar setiap baris matriks tampil di 
 
 ## Contoh Output Program
 
-```
-1 2 3 
-4 5 6 
-7 8 9 
-```
-
----
+![Isi folder Bangun-ruang di local](project2Darray_qiren.jpg)
 
 ## Kesimpulan
 
