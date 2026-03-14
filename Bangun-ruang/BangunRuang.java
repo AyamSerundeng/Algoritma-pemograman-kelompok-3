@@ -32,8 +32,8 @@ public class BangunRuang {
         System.out.println("\nHasil perhitungan:");
         System.out.println("-------------------");
         System.out.printf("Jari-jari bola       = %.2f cm\n", r);
-        System.out.printf("Volume bola          = %.2f cm³\n", volume);
-        System.out.printf("Luas permukaan bola  = %.2f cm²\n", luasPermukaan);
+        System.out.printf("Volume bola          = %.2f cm^3\n", volume);
+        System.out.printf("Luas permukaan bola  = %.2f cm^2\n", luasPermukaan);
         
         input.close();
     }
