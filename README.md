@@ -8,9 +8,11 @@
 | Mata Kuliah           | Algoritma Pemrograman      |
 |:-----------------------|:----------------------------|
 | Kelas                 |                      I251A |
-| Dosen Pengampu| wahyu Hadikristanto, S.Kom., M.Kom.|
+| Dosen Pengampu| WAHYU HADIKRISTANTO, S.Kom., M.Kom.|
 ---
 
 | no | Nama Lengkap                                 | Nim                 |
 |-----------|---------------------------------------|---------------------|
-| 1         | Khairi Ramadhan Yudhatama             | 312510099           |
+| 1         | KHAIRI RAMADHAN YUDHATAMA             | 312510099           |
+| 2         | BAGUS RIGEN HERMANTA                  | 312510145           |
+| 3         | QIREN FADIL HIDAYAT                   | 312510047           |
