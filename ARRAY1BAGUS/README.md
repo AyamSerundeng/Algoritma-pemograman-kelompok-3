@@ -221,12 +221,9 @@ Urutan eksekusi program:
 
 # Contoh Output Program
 
-Ketika program dijalankan, output yang muncul adalah:
+![Isi folder Bangun-ruang di local](Screenshot%202026-03-12%20215203.png)
 
-```
-4
-10
-```
+---
 
 Penjelasan:
 
